@@ -4,10 +4,9 @@ Welcome to the PrismaML documentation. PrismaML is an open-source library design
 
 ## Contents
 
-- [Installation](https://github.com/Yousinator/PrismaML/installation.md)
-- [API Documentation](https://github.com/Yousinator/PrismaML/api-documentation)
-  - [DatasetInformation](https://github.com/Yousinator/PrismaML/api/dataset_information.md)
-  - [MachineLearning](https://github.com/Yousinator/PrismaML/api/machine_learning.md)
-  - [Plotting](https://github.com/Yousinator/PrismaML/api/plotting.md)
-- [Usage Examples](https://github.com/Yousinator/PrismaML/usage/examples.md)
-- [Changelog](https://github.com/Yousinator/PrismaML/changelog.md)
+- [Installation](https://github.com/Yousinator/PrismaML/blob/main/api/installation.md)
+- [API Documentation](https://github.com/Yousinator/PrismaML/blob/main/api)
+  - [DatasetInformation](https://github.com/Yousinator/PrismaML/blob/main/api/dataset_information.md)
+  - [MachineLearning](https://github.com/Yousinator/PrismaML/blob/main/api/machine_learning.md)
+  - [Plotting](https://github.com/Yousinator/PrismaML/blob/main/api/plotting.md)
+- [Usage Examples](https://github.com/Yousinator/PrismaML/blob/main/docs/usage/examples.md)
