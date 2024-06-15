@@ -6,7 +6,7 @@
   <h3 align="center">PrismaML</h3>
 
   <p align="center">
-PrismaML is a comprehensive library designed to streamline and simplify the machine learning model building and data pre-processing process.    <br/>
+PrismaML is a Python package designed to streamline and simplify the machine learning model building and data pre-processing process.    <br/>
     <br/>
     <a href="https://github.com/Yousinator/PrismaML/docs"><strong>Explore the docs »</strong></a>
     <br/>
@@ -52,9 +52,13 @@ PrismaML is a comprehensive library designed to streamline and simplify the mach
 
 > [!Warning]
 >
-> **Package is Unstable**: <br>This is a beta release of PrismaML. As such, you may encounter issues or incomplete functionalities. Some features may not work as expected, and others might not be fully implemented yet. We appreciate your patience and feedback as we continue to improve the library. If you encounter any problems or have suggestions for improvements, please report them through the [Report Bug](https://github.com/Yousinator/PrismaML/issues/new?template=bug_report.md) link.
+> **Package is Unstable**: <br>This is a beta release of PrismaML. As such, you may encounter issues or incomplete functionalities. Some features may not work as expected, and others might not be fully implemented yet. We appreciate your patience and feedback as we continue to improve the package. If you encounter any problems or have suggestions for improvements, please report them through the [Report Bug](https://github.com/Yousinator/PrismaML/issues/new?template=bug_report.md) link.
 
-PrismaML is a comprehensive library designed to streamline and simplify the machine learning model building process. With features for data analysis, feature selection, model evaluation, and visualization, PrismaML empowers data scientists and machine learning practitioners to build and refine their models more efficiently.
+> [!Important]
+>
+> **Tests are Yet to Be Added**: <br>This is a beta release of PrismaML. As such, Unit tests have not yet been added as of this release. However, unit tests are a neccessity and will be added in the future.
+
+PrismaML is a comprehensive package designed to streamline and simplify the machine learning model building process. With features for data analysis, feature selection, model evaluation, and visualization, PrismaML empowers data scientists and machine learning practitioners to build and refine their models more efficiently.
 
 ### Key Features
 
