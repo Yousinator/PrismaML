@@ -28,7 +28,7 @@ Welcome to the PrismaML development guide. This document provides a structured a
 
 ## Setting Up Your Development Environment
 
-To contribute effectively, set up your development environment according to the specifications in the [Development Environment Setup Guide](https://github.com/Yousinator/PrismaML/docs/installation.md). Additionally, ensure you have the following tools configured:
+To contribute effectively, set up your development environment according to the specifications in the [Development Environment Setup Guide](https://github.com/Yousinator/PrismaML/blob/main/docs/installation.md). Additionally, ensure you have the following tools configured:
 
 - **Integrated Development Environment (IDE)**: We recommend using PyCharm or Visual Studio Code with Python extensions installed.
 - **Code Linters**: Use Flake8 for Python to maintain code quality.

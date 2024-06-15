@@ -8,12 +8,12 @@
   <p align="center">
 PrismaML is a Python package designed to streamline and simplify the machine learning model building and data pre-processing process.    <br/>
     <br/>
-    <a href="https://github.com/Yousinator/PrismaML/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Yousinator/PrismaML/blob/main/docs"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Yousinator/PrismaML/issues">Report Bug</a>
+    <a href="https://github.com/Yousinator/PrismaML/issues/new?template=bug_report.md">Report Bug</a>
     .
-    <a href="https://github.com/Yousinator/PrismaML/issues">Request Feature</a>
+    <a href="https://github.com/Yousinator/PrismaML/issues/new?template=feature_request.md">Request Feature</a>
   </p>
 </p>
 <p align="center">
