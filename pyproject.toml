@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prisma-ml"
-version = "0.1.0"
+version = "0.1.1"
 description = "This library automates data summarization, feature selection, and model evaluation, allowing you to focus on building and refining your models."
 authors = ["Yousinator <ymusabeh.dev@gmail.com>"]
 license = "Apache 2.0"
